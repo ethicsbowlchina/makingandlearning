@@ -34,10 +34,10 @@ The steps below guide participants to first assess where they are on the various
 *Discussion Prompts: Where were they similar? Where were they different? What do these differences tell you? What do the similarities tell you?* 
 1. Based on the differences, try to explain the differences. The difference may be the result of different perspective on or visions for your makerspace or program that two team members have. The difference also may be due to a different of interpretation. All of these differences, and even the similarities are important to consider as your team develops and evolves your makerspace and/or program. 
 1. Once you’ve discussed with a pair, share with a whole group where you saw differences in your partner discussion. Discuss as a whole group.
-* What is noticed about the group responses?
-* What is noticed from conversations within your team? 
-* What meaningful variation to we see across our team?
-1. Community Connection: Share your thoughts on the form. Were there spectra where you had the most disagreements or differing perspectives? Which ones and how did you come to terms with those differences? What would be other examples of spectra that represent important tensions in your space or program?
+  * What is noticed about the group responses?
+  * What is noticed from conversations within your team? 
+  * What meaningful variation to we see across our team?
+2. Community Connection: Share your thoughts on the form. Were there spectra where you had the most disagreements or differing perspectives? Which ones and how did you come to terms with those differences? What would be other examples of spectra that represent important tensions in your space or program?
 
 #### Activity extensions
 **Group Visualization**: Before discussing the individual results, using dot stickers, participants should place themselves/their marks on the same spectra that are posted on the wall in order to see trends and variations. If there are participants from libraries and museums in your learning circle, try representing museum professionals by one color of dot, and library professionals by a different color.
