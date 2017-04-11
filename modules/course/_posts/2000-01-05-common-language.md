@@ -1,14 +1,14 @@
-### Session 2: Developing a Common Language
+## Session 2: Developing a Common Language
 
 Please print out the program variations tool, and watch the brief video before reading through the activity. 
 
-#### Resources
+### Resources
 * [Program Variations Tool](https://drive.google.com/open?id=0B73IBpX2ukUbeUZkd3lNTl9pNkE) 
 * [Animated Explanation](https://drive.google.com/open?id=0Byq8c7qHfLKYNXA0bHdIdmxxdU0)
 * Video Guide of Tool Use
 * Optional: dot stickers and chart paper
 
-#### Framing
+### Framing
 
 The purpose of this activity is to develop common language across team members related to important aspects of your makerspace practice. This tool can also be a starting point for action. This tool is designed to encourage cross-organizational discussion and consideration of many of the core aspects of makerspace or maker program activity and practice, and how those aspects fit together and impact one another. 
 
@@ -24,7 +24,7 @@ Ultimately, these spectra are intended to facilitate discussion. Depending on wh
 
 
 
-#### Activity Sequence
+### Activity Sequence
 *This activity can take at least one hour to facilitate, and up to an entire day to explore.*
 
 The steps below guide participants to first assess where they are on the various spectra under each of the five categories (activities, learners, space, facilitation, tools & materials) and then have discussions about different perspectives of the participants.
@@ -41,7 +41,7 @@ The steps below guide participants to first assess where they are on the various
   * What meaningful variation to we see across our team?
 2. Community Connection: Share your thoughts on the form. Were there spectra where you had the most disagreements or differing perspectives? Which ones and how did you come to terms with those differences? What would be other examples of spectra that represent important tensions in your space or program?
 
-#### Activity extensions
+### Activity extensions
 **Group Visualization**: Before discussing the individual results, using dot stickers, participants should place themselves/their marks on the same spectra that are posted on the wall in order to see trends and variations. If there are participants from libraries and museums in your learning circle, try representing museum professionals by one color of dot, and library professionals by a different color.
 
 **2x2 Spectra:**  Intersect two different spectra on an X-Y axis whose intersection is meaningful for understanding your space (imagine open-ended/close-ended on the x-axis and high/low facilitation as the y-axis). Participants should be encouraged to complete at least three 2x2 spectra that are decided by a facilitator or the group. Discuss why these are important intersections and what the results might tell you about your makerspace or program.
