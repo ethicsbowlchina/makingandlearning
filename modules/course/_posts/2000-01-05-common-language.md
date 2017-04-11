@@ -23,12 +23,14 @@ Rather than looking for similarities, the discussion can center on where signifi
 Ultimately, these spectra are intended to facilitate discussion. Depending on where your makerspace or maker program is with respect to some of these spectra, discussions can be had to consider how you might achieve some meaningful changes with regard to your vision or activity. Revisit these spectra from time to time as a way to evaluate where you and your team have made such changes or which aspects of the makerspace or maker program have remained constant and strong.
 
 
+
 #### Activity Sequence
 *This activity can take at least one hour to facilitate, and up to an entire day to explore.*
 
 The steps below guide participants to first assess where they are on the various spectra under each of the five categories (activities, learners, space, facilitation, tools & materials) and then have discussions about different perspectives of the participants.
 
-1. As a group, choose one big part of your work as it relates to making, such as the design of the space or a specific program that you will use this tool to consider. As a group, participants may choose to focus on one or two categories or assess all of them. This will be done individually and then you will discuss with a partner and then the whole group. *Discussion Prompt: Consider where you believe your program/space is with respect to each of the spectra*
+1. As a group, choose one big part of your work as it relates to making, such as the design of the space or a specific program that you will use this tool to consider. As a group, participants may choose to focus on one or two categories or assess all of them. This will be done individually and then you will discuss with a partner and then the whole group.
+  * *Discussion Prompt: Consider where you believe your program/space is with respect to each of the spectra*
 1. As individuals, mark with an x where your chosen space or program falls on each of the spectra.
 1. Once completed, discuss with a partner from your team where you decided to place your space or program on the various spectra. To encourage conversations, focus on where you see the biggest differences in opinion. 
   * *Discussion Prompts: Where were they similar? Where were they different? What do these differences tell you? What do the similarities tell you?* 
