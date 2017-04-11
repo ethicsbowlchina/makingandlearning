@@ -2,10 +2,10 @@
 layout: page
 ---
 
-# About
+## About
 Video that introduces the project
 
-# Supporting Learning in Library & Museum Makerspaces
+## Supporting Learning in Library & Museum Makerspaces
 Many libraries and museums have recently established or invested resources to implement maker programs or makerspaces. While these programs and spaces serve a variety of goals, they overwhelmingly serve as sites of ambitious learning. As the making movement grows by leaps and bounds, the field itself knows relatively little about how to support learning within these spaces. Often, it seems, makerspaces are developed without first taking stock of the conditions that are requisite for ambitious learning experiences to unfold within the making experience.   
 
 As such, we have put together this course to provide museum and library professionals with a framework to support learning in library and museum makerspaces. The course is designed introduce you to the key elements of successful makerspaces: purpose, people, pieces, and parts. We will introduce tools that are intended to help you surface each of these elements for yourselves, offering some direction as you consider creating a makerspace for visitors and patrons.
@@ -16,13 +16,13 @@ The project has been carried out through a cooperative agreement between the Ins
 
 [Read more about the Supporting Learning in Library & Museum Makerspaces project.](https://makingandlearning.squarespace.com/)
 
-# Goals of this Course 
+## Goals of this Course 
 The goal of this course is for participants to use our framework to assist in the design and/or implementation of a makerspace or maker program that supports learning in a museum or library. The course can support people who are beginning the development of a new makerspace or maker program or improving upon one that is already up and running. 
 
-# Intended Audience
+## Intended Audience
 This course is intended for museum and library professionals, or anybody who is designing a makerspace. We encourage participants to engage in the sessions with team members, from your own organization and/or with partner organizations. 
 
-# Format
+## Format
 The course consists of a 30 minute reading and four two-hour sessions, each of which will take about two hours to work through. The course has been designed to be taken as a learning circle: a model of peer-facilitated learning that is designed to add face-to-face interaction and social accountability to the online course experience. After each session, participants are encouraged to share their work on the virtual forum: writing comments, sharing a photo, or uploading a video.  
 
 The sessions in this course are:
