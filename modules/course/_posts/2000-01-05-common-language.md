@@ -1,13 +1,14 @@
-
-Session 2: Developing a Common Language
+### Session 2: Developing a Common Language
 
 Please print out the program variations tool, and watch the brief video before reading through the activity. 
-Resources
-Program Variations Tool 
-Animated Explanation
-Video Guide of Tool Use
-Optional: dot stickers and chart paper
-Framing
+
+#### Resources
+* [Program Variations Tool](https://drive.google.com/open?id=0B73IBpX2ukUbeUZkd3lNTl9pNkE) 
+* [Animated Explanation](https://drive.google.com/open?id=0Byq8c7qHfLKYNXA0bHdIdmxxdU0)
+* Video Guide of Tool Use
+* Optional: dot stickers and chart paper
+
+#### Framing
 
 The purpose of this activity is to develop common language across team members related to important aspects of your makerspace practice. This tool can also be a starting point for action. This tool is designed to encourage cross-organizational discussion and consideration of many of the core aspects of makerspace or maker program activity and practice, and how those aspects fit together and impact one another. 
 
@@ -22,25 +23,25 @@ Rather than looking for similarities, the discussion can center on where signifi
 Ultimately, these spectra are intended to facilitate discussion. Depending on where your makerspace or maker program is with respect to some of these spectra, discussions can be had to consider how you might achieve some meaningful changes with regard to your vision or activity. Revisit these spectra from time to time as a way to evaluate where you and your team have made such changes or which aspects of the makerspace or maker program have remained constant and strong.
 
 
-Activity Sequence
-This activity can take at least one hour to facilitate, and up to an entire day to explore.
+#### Activity Sequence
+*This activity can take at least one hour to facilitate, and up to an entire day to explore.*
 
 The steps below guide participants to first assess where they are on the various spectra under each of the five categories (activities, learners, space, facilitation, tools & materials) and then have discussions about different perspectives of the participants.
 
-As a group, choose one big part of your work as it relates to making, such as the design of the space or a specific program that you will use this tool to consider. As a group, participants may choose to focus on one or two categories or assess all of them. This will be done individually and then you will discuss with a partner and then the whole group.  Discussion Prompt: Consider where you believe your program/space is with respect to each of the spectra
-As individuals, mark with an x where your chosen space or program falls on each of the spectra.
-Once completed, discuss with a partner from your team where you decided to place your space or program on the various spectra. To encourage conversations, focus on where you see the biggest differences in opinion. 
-Discussion Prompts: Where were they similar? Where were they different? What do these differences tell you? What do the similarities tell you? 
-Based on the differences, try to explain the differences. The difference may be the result of different perspective on or visions for your makerspace or program that two team members have. The difference also may be due to a different of interpretation. All of these differences, and even the similarities are important to consider as your team develops and evolves your makerspace and/or program. 
-Once you’ve discussed with a pair, share with a whole group where you saw differences in your partner discussion. Discuss as a whole group. 
-What is noticed about the group responses? 
-What is noticed from conversations within your team? 
-What meaningful variation to we see across our team?
-Community Connection: Share your thoughts on the form. Were there spectra where you had the most disagreements or differing perspectives? Which ones and how did you come to terms with those differences? What would be other examples of spectra that represent important tensions in your space or program?
+1. As a group, choose one big part of your work as it relates to making, such as the design of the space or a specific program that you will use this tool to consider. As a group, participants may choose to focus on one or two categories or assess all of them. This will be done individually and then you will discuss with a partner and then the whole group.  Discussion Prompt: Consider where you believe your program/space is with respect to each of the spectra
+1. As individuals, mark with an x where your chosen space or program falls on each of the spectra.
+1. Once completed, discuss with a partner from your team where you decided to place your space or program on the various spectra. To encourage conversations, focus on where you see the biggest differences in opinion. 
+⋅⋅*Discussion Prompts: Where were they similar? Where were they different? What do these differences tell you? What do the similarities tell you?* 
+1. Based on the differences, try to explain the differences. The difference may be the result of different perspective on or visions for your makerspace or program that two team members have. The difference also may be due to a different of interpretation. All of these differences, and even the similarities are important to consider as your team develops and evolves your makerspace and/or program. 
+1. Once you’ve discussed with a pair, share with a whole group where you saw differences in your partner discussion. Discuss as a whole group. 
+..*What is noticed about the group responses? 
+..*What is noticed from conversations within your team? 
+..What meaningful variation to we see across our team?
+1. Community Connection: Share your thoughts on the form. Were there spectra where you had the most disagreements or differing perspectives? Which ones and how did you come to terms with those differences? What would be other examples of spectra that represent important tensions in your space or program?
 
-Activity extensions
-Group Visualization: Before discussing the individual results, using dot stickers, participants should place themselves/their marks on the same spectra that are posted on the wall in order to see trends and variations. If there are participants from libraries and museums in your learning circle, try representing museum professionals by one color of dot, and library professionals by a different color.
+#### Activity extensions
+**Group Visualization**: Before discussing the individual results, using dot stickers, participants should place themselves/their marks on the same spectra that are posted on the wall in order to see trends and variations. If there are participants from libraries and museums in your learning circle, try representing museum professionals by one color of dot, and library professionals by a different color.
 
-2x2 Spectra:  Intersect two different spectra on an X-Y axis whose intersection is meaningful for understanding your space (imagine open-ended/close-ended on the x-axis and high/low facilitation as the y-axis). Participants should be encouraged to complete at least three 2x2 spectra that are decided by a facilitator or the group. Discuss why these are important intersections and what the results might tell you about your makerspace or program.
+**2x2 Spectra:**  Intersect two different spectra on an X-Y axis whose intersection is meaningful for understanding your space (imagine open-ended/close-ended on the x-axis and high/low facilitation as the y-axis). Participants should be encouraged to complete at least three 2x2 spectra that are decided by a facilitator or the group. Discuss why these are important intersections and what the results might tell you about your makerspace or program.
 
-Additional Spectra: Identify and generate additional spectra that might be relevant to your makerspace or program and discuss what tensions these spectra represent.
+**Additional Spectra:** Identify and generate additional spectra that might be relevant to your makerspace or program and discuss what tensions these spectra represent.
