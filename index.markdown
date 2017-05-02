@@ -5,8 +5,7 @@ extra_js:
  - https://learningcircles.p2pu.org/en/studygroups/?course_id=2&callback=renderCircles
 ---
 
-## Take the course in person
-
+### Get started
 Learning Circles offer the opportunity to work through the course with your local community. Join a Learning Circle near you below, or create your own!
 
 <div id="lc-container" class="row">
@@ -46,7 +45,7 @@ Or <a href="https://learningcircles.p2pu.org/" class="btn btn-primary">create yo
     }
 </script>
 
-## Goals of this Course 
+### Goals of this Course 
 The goal of this course is for participants to use our framework to assist in the design and/or implementation of a makerspace or maker program that supports learning in a museum or library. The course can support people who are beginning the development of a new makerspace or maker program or improving upon one that is already up and running. 
 
 ### Intended Audience
@@ -56,5 +55,3 @@ This course is intended for museum and library professionals, or anybody who is 
 The course consists of a 30 minute reading and four two-hour sessions, each of which will take about two hours to work through. The course has been designed to be taken as a learning circle: a model of peer-facilitated learning that is designed to add face-to-face interaction and social accountability to the online course experience. After each session, participants are encouraged to share their work on the virtual forum: writing comments, sharing a photo, or uploading a video. If you'd rather go through the course on your own, go right ahead! There are no log ins or sign ups required.
 
 This is an open course, meaning that there is no registration or logging in required to access any  of the materials. All course materials are licensed under a [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/), and were developed with the support of [Peer 2 Peer University](https://www.p2pu.org/).
-
-
