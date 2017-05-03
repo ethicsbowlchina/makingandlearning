@@ -2,7 +2,7 @@
 
 We hope that you've enjoyed this course. The tools presented here are meant to be revisited on a regular basis and serve a cycles of learning for you and / or your makerspace team. The real learning begins with yourself or your organization. 
 
-For more information on this project and its resources,visit  [www.makingandlearning.org](www.makingandlearning.org). 
+For more information on this project and its resources, visit  [www.makingandlearning.org](www.makingandlearning.org). 
 
 For more information on Children’s Museum of Pittsburgh and its makerspace, MAKESHOP, visit [www.pittsburghkids.org](www.pittsburghkids.org) and [www.makeshoppgh.com](www.makeshoppgh.com)
 
