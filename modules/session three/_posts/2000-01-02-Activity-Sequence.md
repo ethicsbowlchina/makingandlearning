@@ -6,10 +6,9 @@ The goal of the game is for each player to collect a hand of cards that represen
 #### Gameplay
 To begin, one player draws a card from the central deck, and chooses whether or not to keep or discard the card based on its relevancy, with respect to the other cards in hand, to their role within the makerspace. If the card is kept, it must take place of one of the cards in hand. If it is not kept, it must be discarded.  The discarded card is laid face up in front of the player discarding.
 * *Thought Prompt: Does this card describe your your personal interests, strengths and expertise with respect to your role in the makerspace or program better than any of the other cards in your hand?* 
-In each subsequent turn, players can either choose to draw a face down card from the central deck or choose to take a face up card from in front of another player. Play continues until the last face-down card is revealed and either kept or discarded.
-<br/><br/>
-#### When all cards are played...
-All players reveal their hand, laying them face up in front of them on the table. Each player takes a turn discussing their cards and the implications of their choices, themes, etc.
+
+In each subsequent turn, players can either choose to draw a face down card from the central deck or choose to take a face up card from in front of another player. Play continues until the last face-down card is revealed and either kept or discarded. All players reveal their hand, laying them face up in front of them on the table. Each player takes a turn discussing their cards and the implications of their choices, themes, etc.
+
 <br/><br/>
 #### Discussion
 * What do the cards you selected say about you?
