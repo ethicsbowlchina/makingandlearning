@@ -1,4 +1,4 @@
-##Community Connection
+## Community Connection
 
 Upload your Learning Tool Worksheet examples [to the forum](https://community.p2pu.org/t/session-4-pedagogy/2539). 
 
