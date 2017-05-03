@@ -1,4 +1,4 @@
-### Activity Sequence
+## Activity Sequence
 *This activity can take 1-2 hours, and can be revisited over time. This game is best played with 4-10 participants.*
 
 The goal of the game is for each player to collect a hand of cards that represents their own individual interests, strengths, and expertise with regard to their role in the makerspace or program. To set the game up, shuffle and deal five cards to each player cards to each participant. Place remaining cards in a stack face down in the middle of the table. Everyone looks at their own cards.
