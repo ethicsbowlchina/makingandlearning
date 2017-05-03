@@ -1,4 +1,4 @@
-### Activity Sequence
+## Activity Sequence
 *This activity can take at least one hour to facilitate, and up to an entire day to explore.*
 
 The steps below guide participants to first assess where they are on the various spectra under each of the five categories (activities, learners, space, facilitation, tools & materials) and then have discussions about different perspectives of the participants.
