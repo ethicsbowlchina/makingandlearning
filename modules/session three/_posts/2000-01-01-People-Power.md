@@ -1,7 +1,6 @@
 ## Session 3: People Power 
 Print out the people tool, and watch the brief video before reading through the activity. 
 
-<br/><br/>
 #### Resources
 * [People Tool](https://drive.google.com/open?id=0B73IBpX2ukUbUEdzdW5ULS1JVDA) 
 * Animated Explanation
