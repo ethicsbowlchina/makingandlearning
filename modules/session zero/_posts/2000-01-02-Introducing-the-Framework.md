@@ -1,4 +1,4 @@
-## Session Zero: Introducing the Framework
+## Introducing the Framework
 
 For some background on the project and the development of the framework, we ask that you take a moment to watch this [animated explanation](https://drive.google.com/open?id=0Byq8c7qHfLKYM2ZUQmhfRTA3eG8) and this video. 
 
