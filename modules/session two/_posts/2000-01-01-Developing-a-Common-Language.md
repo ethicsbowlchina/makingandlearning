@@ -2,14 +2,14 @@
 
 Print out the program variations tool, and watch the brief video before reading through the activity. 
 
-<br/><br/>
+
 #### Resources
 * [Program Variations Tool](https://drive.google.com/open?id=0B73IBpX2ukUbeUZkd3lNTl9pNkE) 
 * [Animated Explanation](https://drive.google.com/open?id=0Byq8c7qHfLKYNXA0bHdIdmxxdU0)
 * Video Guide of Tool Use
 * Optional: dot stickers and chart paper
 
-<br/><br/>
+
 #### Framing
 The purpose of this activity is to develop common language across team members related to important aspects of your makerspace practice. This tool can also be a starting point for action. This tool is designed to encourage cross-organizational discussion and consideration of many of the core aspects of makerspace or maker program activity and practice, and how those aspects fit together and impact one another. 
 
