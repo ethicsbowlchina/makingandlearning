@@ -13,4 +13,3 @@ The steps below guide participants to first assess where they are on the various
   * *What is noticed about the group responses?
   * What is noticed from conversations within your team? 
   * What meaningful variation to we see across our team?*
-6. Community Connection: Share your thoughts on the forum. Were there spectra where you had the most disagreements or differing perspectives? Which ones and how did you come to terms with those differences? What would be other examples of spectra that represent important tensions in your space or program?
