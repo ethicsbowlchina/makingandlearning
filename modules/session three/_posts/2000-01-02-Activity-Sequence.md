@@ -17,4 +17,4 @@ The goal of the game is for each player to collect a hand of cards that represen
    * What sort of actions can you make as an individual to work in areas that are suited to your strengths, interests, and expertise?
    * What areas of practice are not well represented? What are the implications of this for your makerspace or program? 
    * How might the structures, goals, programming, etc. of your makerspace or program change to better reflect and/or accommodate the strengths and interests of your staff?
-8. Community Connections: Pick one or two of the discussion questions above and share highlights of your discussion on the forum.
+
