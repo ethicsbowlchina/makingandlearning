@@ -26,6 +26,4 @@ Encourage two or three groups of participants to share their evidence and activi
 Encourage additional participants to compare/contrast what they generated with what was shared. 
 Allow participants to express concerns, asks questions or offer suggestions. Did they find some tools or materials more or less amenable to collaborating?
 <br/><br/>
-#### 4. Community Connection (15 minutes)
-Upload Learning Tool Worksheet examples to the forum. 
-What sorts of maker-based learning goals are important for your program? Why are these important? Are these similar or different from the learning goals for your other non-maker based programs?
+
