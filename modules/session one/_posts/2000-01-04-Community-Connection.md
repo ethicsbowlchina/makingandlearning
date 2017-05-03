@@ -5,4 +5,4 @@ There's no set agenda - you can go there to see what others have included, or as
 
 *The community is hosted on Discourse, which means someone will need to create a free account in order to post. [You can do that here](https://community.p2pu.org/c/making-learning)*
 
-[Upload what you've completed](https://community.p2pu.org/t/session-1-setting-a-vision-for-making/2536) with your vision statement – either what you’ve written in the tool or your current version of a vision statement. You could also include a video recording of you making your pitch! 
+For this first session, [Upload what you've completed](https://community.p2pu.org/t/session-1-setting-a-vision-for-making/2536) with your vision statement – either what you’ve written in the tool or your current version of a vision statement. You could also include a video recording of you making your pitch! 
