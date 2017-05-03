@@ -1,6 +1,6 @@
 ## Activity Sequence 
-This activity can take 1-2 hours or up to an entire day, and should be revisited over time.
-<Br>
+This activity can take 1-2 hours or up to an entire day, and should be revisited over time.xx
+<br/><br/>
 #### 1. Model the Tool (5 minutes)
 Inspired by evidence-centered design (ECD), we are breaking up the learning design process for our maker activities into three broad categories: the goal, evidence and activities.  Often times the goals of making are presented broadly or at a theoretical level and it is the task of the educator to reveal these goals through observable evidence. The ultimate goal is to tie together the goal, evidence and activity to build a “chain of reasoning.”
  * Learning Goal: On the top, we are thinking about the goal of a particular activity (of course, you probably have more than one goal, but let’s start with one). We refer to it as the learning goal, but more specifically it is a bit of knowledge, skill or a habit of mind that you want to support learners to develop or engage in through their maker-based experience. 
