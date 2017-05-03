@@ -1,6 +1,6 @@
 ## Session 1: Setting a Vision for Making 
 
-Please print out the vision statement tool, and watch the brief video before reading through the activity. 
+Print out the vision statement tool, and watch the brief video before reading through the activity. 
  <br/><br/>
 #### Resources
  * [Vision Statement Tool](https://drive.google.com/open?id=0B73IBpX2ukUbOW12WE5qUk5FcmM)
