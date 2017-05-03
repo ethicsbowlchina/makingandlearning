@@ -1,6 +1,6 @@
 ## Activity Prompts
- <br/><br/>
 
+ <br/><br/>
 #### Prompt 1: We Believe... 
 *What are your values? What is your philosophy?*
 This is the emotional core of your makerspace and what it addresses for your organization. While you and your team might have many beliefs about your learners and supporting learning, your most essential values for your makerspace or maker program will be surfaced here. 
