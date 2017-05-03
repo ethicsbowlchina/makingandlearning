@@ -10,7 +10,7 @@ The goal of the game is for each player to collect a hand of cards that represen
 5. All players reveal their hand, laying them face up in front of them on the table. Each player takes a turn discussing their cards and the implications of their choices, themes, etc.
 6. All players flip their cards over to reveal the categories represented, and those that are not.
 7. Discuss as a group:
-  * *What do the cards you selected say about you?
+  * * What do the cards you selected say about you?
   * What do the discarded cards say about your team as a whole?
   * Were there any card choices that were surprising to you or the group?
   * How can your team adapt roles and projects to reflect the interests, strengths and expertise of individuals?
