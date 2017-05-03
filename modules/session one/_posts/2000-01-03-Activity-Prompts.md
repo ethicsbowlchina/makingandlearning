@@ -1,6 +1,7 @@
 ## Activity Prompts
 
 
+
 #### Prompt 1: We Believe... 
 
 *What are your values? What is your philosophy?*
