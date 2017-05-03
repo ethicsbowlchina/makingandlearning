@@ -7,4 +7,3 @@
 4. Read (or have members of your team) read the vision statement aloud and make refinements.
 5. Consider some of these questions: What were some takeaways from the process for you (individually or as a group)? What was challenging about this process? Which prompt was the most challenging to address? Easiest to address? 
 6. Revisit this statement and the prompts from time to time as a way to evaluate its relevance for your work related to making.
-7. Community Connection: Upload what you’ve completed with your vision statement--either what you’ve written in the tool or your current version of a vision statement, and even do a video recording of your pitch to the course forum. 
