@@ -1,4 +1,4 @@
-### Activity extensions
+## Activity extensions
 
 #### Group Visualization
 Before discussing the individual results, using dot stickers, participants should place themselves/their marks on the same spectra that are posted on the wall in order to see trends and variations. If there are participants from libraries and museums in your learning circle, try representing museum professionals by one color of dot, and library professionals by a different color.
