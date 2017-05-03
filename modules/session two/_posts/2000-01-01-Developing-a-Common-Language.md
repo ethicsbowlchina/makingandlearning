@@ -1,15 +1,14 @@
 ## Session 2: Developing a Common Language
 
-Please print out the program variations tool, and watch the brief video before reading through the activity. 
-
+Print out the program variations tool, and watch the brief video before reading through the activity. 
+ <br/><br/>
 #### Resources
 * [Program Variations Tool](https://drive.google.com/open?id=0B73IBpX2ukUbeUZkd3lNTl9pNkE) 
 * [Animated Explanation](https://drive.google.com/open?id=0Byq8c7qHfLKYNXA0bHdIdmxxdU0)
 * Video Guide of Tool Use
 * Optional: dot stickers and chart paper
-
+ <br/><br/>
 #### Framing
-
 The purpose of this activity is to develop common language across team members related to important aspects of your makerspace practice. This tool can also be a starting point for action. This tool is designed to encourage cross-organizational discussion and consideration of many of the core aspects of makerspace or maker program activity and practice, and how those aspects fit together and impact one another. 
 
 This tool displays many of the core factors that are often considered when designing and maintaining a makerspace, such as facilitation, types of tools and materials, structure of activities, etc. as spectra. This tool encourages participants to consider these various facets of their maker program or space on a series of spectra. The spectra do not carry any weight or value. They simply visibly show many of the core tensions that are often at play when designing making experiences for learners. The spectra that are featured on the tool are not exhaustive, meaning there are many many more facets, decision factors and tensions that are at play when designing making experiences for learners.  A hope is that through using the tool, participants surface additional spectra for their staff to consider together.
