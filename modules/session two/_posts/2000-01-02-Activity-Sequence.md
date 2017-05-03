@@ -12,6 +12,6 @@ The differencse may be the result of different perspective on or visions for you
 <br/><br/>
 #### Group Discussion
 Once you’ve discussed with a pair, share with a whole group where you saw differences in your partner discussion. Discuss as a whole group.
-  * *What is noticed about the group responses?
-  * What is noticed from conversations within your team? 
-  * What meaningful variation to we see across our team?*
+* * What is noticed about the group responses?
+* What is noticed from conversations within your team? 
+* What meaningful variation to we see across our team?*
