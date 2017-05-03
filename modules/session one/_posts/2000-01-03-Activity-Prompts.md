@@ -11,7 +11,7 @@ This is the emotional core of your makerspace and what it addresses for your org
 * Do you believe all adults can be entrepreneurs?
 * Do you believe all members of your community should have access to high-tech tools and materials?
 
-
+<br/>
 #### Prompt 2: Based On...
 
 *What are our strengths? What are our areas of expertise?*
@@ -22,7 +22,7 @@ There’s a reason why a makerspace or maker program makes sense in your institu
 * Has your organization been at the cutting edge of technological learning experiences in your area?
 * Do you and your team bring strengths that proove a makerspace is a natural evolution of what you provide for your community members or target audience?
 
-
+<br/>
 #### Prompt 3: We Aim To...
 
 *What are our goals? What do we want to accomplish?*
@@ -33,7 +33,7 @@ Makerspaces and maker programs aim to achieve a wide variety of salient and reas
 * Do you want to target specific technical or craft skills for young adults that may translate to the workplace?
 * Maybe you want to create a consistent place for teens to come after school so that they are not “on the streets.”
 
-
+<br/>
 #### Prompt 4: Working With...
 
 *Who is the audience that our program or space serves? Who are the stakeholders of our program or space?*
@@ -43,7 +43,7 @@ This prompt provides a chance to specify whom the stakeholders are that the make
 * Does your makerspace target a particular expertise level of amateurs or experts?
 * Does your makerspace seek to work with a particular interest group like hobbyists, students, or teachers?
 
-
+<br/>
 #### Prompt 5: Because We Know...
 
 *Why is this important? What have you observed?*
@@ -54,7 +54,7 @@ You can think of this prompt as your “needs statement.” What problem or issu
 * Have you noticed many groups of teens hanging out near your organization with little to do?
 * Have children told you they want to learn how to make clocks?
 
-
+<br/>
 #### Prompt 6: We Will Succeed When...
 
 *What are our metrics for success? What are the indicators that our program is working? How will you know that you are reaching the impact that you aim to have? Metrics for success are challenging, but useful for showing the change over time, as a makerspace or maker program becomes a reality.*
