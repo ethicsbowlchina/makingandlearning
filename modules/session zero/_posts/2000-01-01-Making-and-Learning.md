@@ -1,6 +1,8 @@
 ## Session Zero: Welcome to Making and Learning
 
+
 [![Tool Intro](https://img.youtube.com/vi/OrDvy-WMOPA/0.jpg)](https://www.youtube.com/watch?v=OrDvy-WMOPA "Tool Intro")
+*For some background on the project and the development of the framework, check out this short video.* 
 
 Many libraries and museums have recently established or invested resources to implement maker programs or makerspaces. While these programs and spaces serve a variety of goals, they overwhelmingly serve as sites of ambitious learning. As the making movement grows by leaps and bounds, the field itself knows relatively little about how to support learning within these spaces. Often, it seems, makerspaces are developed without first taking stock of the conditions that are requisite for ambitious learning experiences to unfold within the making experience.   
 
