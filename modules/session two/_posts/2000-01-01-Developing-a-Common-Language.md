@@ -1,13 +1,8 @@
 ## Session 2: Developing a Common Language
 
-Print out the program variations tool, and watch the brief video before reading through the activity. 
+Print out the [Program Variations Tool](https://drive.google.com/open?id=0B73IBpX2ukUbeUZkd3lNTl9pNkE), grab some dot stickers and chart paper, and watch this brief video before reading through the activity. 
 
-
-#### Resources
-* [Program Variations Tool](https://drive.google.com/open?id=0B73IBpX2ukUbeUZkd3lNTl9pNkE) 
-* [Animated Explanation](https://drive.google.com/open?id=0Byq8c7qHfLKYNXA0bHdIdmxxdU0)
-* Video Guide of Tool Use
-* Optional: dot stickers and chart paper
+[![Program Variations](https://img.youtube.com/vi/TkwPp0Erfm0/0.jpg)](https://www.youtube.com/watch?v=TkwPp0Erfm0 "Program Variations")
 
 
 #### Framing
