@@ -1,9 +1,12 @@
 ## Session 2: Developing a Common Language
 
-Print out the [Program Variations Tool](https://drive.google.com/open?id=0B73IBpX2ukUbeUZkd3lNTl9pNkE), grab some dot stickers and chart paper, and watch this brief video before reading through the activity. 
+Download and print out the [Program Variations Tool](../../../../../raw/gh-pages/modules/tools/Program-Variation-Tool.pdf), grab some dot stickers and chart paper, and watch thes brief videos before reading through the activity. 
 
+#### Animated Explanation
 [![Program Variations](https://img.youtube.com/vi/TkwPp0Erfm0/0.jpg)](https://www.youtube.com/watch?v=TkwPp0Erfm0 "Program Variations")
 
+#### Guide for Using the Tool
+[![Program Variations](https://img.youtube.com/vi/fuwTDG7H8nQ/0.jpg)](https://www.youtube.com/watch?v=fuwTDG7H8nQ "Program Variations")
 
 #### Framing
 The purpose of this activity is to develop common language across team members related to important aspects of your makerspace practice. This tool can also be a starting point for action. This tool is designed to encourage cross-organizational discussion and consideration of many of the core aspects of makerspace or maker program activity and practice, and how those aspects fit together and impact one another. 
