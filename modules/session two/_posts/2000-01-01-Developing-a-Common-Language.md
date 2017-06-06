@@ -1,6 +1,6 @@
 ## Session 2: Developing a Common Language
 
-Download and print out the [Program Variations Tool](https://github.com/p2pu/makingandlearning/raw/gh-pages/modules/tools/Program-Variation-Tool.pdf), grab some dot stickers and chart paper, and watch thes brief videos before reading through the activity. 
+Download and print out the [Program Variations Tool](https://github.com/p2pu/makingandlearning/raw/gh-pages/modules/tools/Program-Variation-Tool.pdf), grab some dot stickers and chart paper, and watch these brief videos before reading through the activity. 
 
 #### Animated Explanation
 [![Program Variations](https://img.youtube.com/vi/TkwPp0Erfm0/0.jpg)](https://www.youtube.com/watch?v=TkwPp0Erfm0 "Program Variations")
