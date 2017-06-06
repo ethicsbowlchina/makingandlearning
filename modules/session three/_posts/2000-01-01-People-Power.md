@@ -1,8 +1,12 @@
 ## Session 3: People Power 
-Print out the [People Tool](https://drive.google.com/open?id=0B73IBpX2ukUbUEdzdW5ULS1JVDA), and watch this brief video before reading through the activity. 
 
+Download and print out the [People Tool](../../../../../raw/gh-pages/modules/tools/People-Tool.pdf), and watch these brief videos before reading through the activity. 
+
+#### Animated Explanation
 [![Making Connections](https://img.youtube.com/vi/Nw89I1ooro0/0.jpg)](https://www.youtube.com/watch?v=Nw89I1ooro0 "Making Connections")
 
+#### Guide for Using the Tool
+[![Making Connections](https://img.youtube.com/vi/NsQRGsuC8i0/0.jpg)](https://www.youtube.com/watch?v=NsQRGsuC8i0 "Making Connections")
 
 #### Framing 
 Although the flashy tools and machines of makerspaces and outlandish work products like robotic giraffes get a lot of attention, the secret sauce for a makerspace is the people. People play an important role in creating the conditions for rich learning experiences. This might include designing the learning activities, selecting and maintaining appropriate tools and materials, and facilitating the learning experiences for learners so they are appropriately challenging and engaging. And behind the scenes, there are certainly people hiring and scheduling staff, raising money for the makerspace and communicating the role of maker-based learning experiences for visitors and patrons alike. 
