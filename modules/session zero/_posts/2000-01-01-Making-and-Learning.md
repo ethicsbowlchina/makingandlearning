@@ -1,7 +1,7 @@
 ## Session Zero: Welcome to Making and Learning
 
 
-[![Tool Intro](https://img.youtube.com/vi/OrDvy-WMOPA/0.jpg)](https://www.youtube.com/watch?v=OrDvy-WMOPA "Tool Intro")
+[![Intro to the Tools](https://img.youtube.com/vi/92NQKX-KtsY/0.jpg)](https://www.youtube.com/watch?v=92NQKX-KtsY "Intro to the Tools")
 
 *For some background on the project and the development of the framework, check out this short video.* 
 
