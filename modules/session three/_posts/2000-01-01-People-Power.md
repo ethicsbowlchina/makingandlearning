@@ -1,6 +1,7 @@
 ## Session 3: People Power 
 
-Download and print out the [People Tool](../../../../../raw/gh-pages/modules/tools/People-Tool.pdf), and watch these brief videos before reading through the activity. 
+Download and print out the [People Tool](https://github.com/p2pu/makingandlearning/raw/gh-pages/modules/tools/People-Tool.pdf
+), and watch these brief videos before reading through the activity. 
 
 #### Animated Explanation
 [![Making Connections](https://img.youtube.com/vi/Nw89I1ooro0/0.jpg)](https://www.youtube.com/watch?v=Nw89I1ooro0 "Making Connections")
