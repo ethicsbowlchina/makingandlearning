@@ -1,6 +1,11 @@
 ## Session Zero: Welcome to Making and Learning
 
+Welcome! To begin, go ahead and watch these two videos which introduce the concept for the course and the tools that you'll be using in each module.
 
+#### Overview of the Course
+[![Course Overview](https://img.youtube.com/vi/OrDvy-WMOPA/0.jpg)](https://www.youtube.com/watch?v=OrDvy-WMOPA  "Course Overview")
+
+#### Intro to the Tools
 [![Intro to the Tools](https://img.youtube.com/vi/92NQKX-KtsY/0.jpg)](https://www.youtube.com/watch?v=92NQKX-KtsY "Intro to the Tools")
 
 *For some background on the project and the development of the framework, check out this short video.* 
@@ -13,4 +18,6 @@ Each session will present a new tool-based activity designed to support particip
 
 The project has been carried out through a cooperative agreement between the Institute of Museum and Library Services and Children’s Museum of Pittsburgh. Several thought partners have also been critical to this work and have provided expert support: Exploratorium, Chicago Public Library, North Carolina State University Libraries, and Maker Education Initiative.
 
-[Read more about the Supporting Learning in Library & Museum Makerspaces project.](https://makingandlearning.squarespace.com/)
+[Download a summary of the Framework](../../../../../raw/gh-pages/modules/tools/Framework.pdf)
+
+[Read more about the Supporting Learning in Library & Museum Makerspaces project](https://makingandlearning.squarespace.com/)
