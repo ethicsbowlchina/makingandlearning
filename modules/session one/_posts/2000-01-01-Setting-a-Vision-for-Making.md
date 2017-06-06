@@ -1,6 +1,6 @@
 ## Session 1: Setting a Vision for Making 
 
-Download and print out the [Vision Statement Tool](makingandlearning/modules/tools/Vision-Statement-Tool.pdf), and watch these brief videos before reading through the activity. 
+Download and print out the [Vision Statement Tool](https://github.com/p2pu/makingandlearning/raw/gh-pages/modules/tools/Vision-Statement-Tool.pdf), and watch these brief videos before reading through the activity. 
 
 #### Animated Explanation
 [![Vision Statement](https://img.youtube.com/vi/SOtxD7JbDTs/0.jpg)](https://www.youtube.com/watch?v=SOtxD7JbDTs "Vision Statement")
