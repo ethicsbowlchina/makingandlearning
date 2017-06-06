@@ -1,9 +1,12 @@
 ## Session 1: Setting a Vision for Making 
 
-Print out the [Vision Statement Tool](https://drive.google.com/open?id=0B73IBpX2ukUbOW12WE5qUk5FcmM), and watch this brief video before reading through the activity. 
+Print out the [Vision Statement Tool](makingandlearning/modules/tools/Vision-Statement-Tool.pdf), and watch these brief videos before reading through the activity. 
 
+#### Animated Explanaition
 [![Vision Statement](https://img.youtube.com/vi/SOtxD7JbDTs/0.jpg)](https://www.youtube.com/watch?v=SOtxD7JbDTs "Vision Statement")
 
+#### Guide for Using the Tool
+[![Vision Statement](https://img.youtube.com/vi/Le69uI55abc/0.jpg)](https://www.youtube.com/watch?v=Le69uI55abc "Vision Statement")
 
 #### Framing
 
