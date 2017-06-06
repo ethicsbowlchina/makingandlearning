@@ -8,7 +8,7 @@ Welcome! To begin, go ahead and watch these two videos which introduce the conce
 #### Intro to the Tools
 [![Intro to the Tools](https://img.youtube.com/vi/92NQKX-KtsY/0.jpg)](https://www.youtube.com/watch?v=92NQKX-KtsY "Intro to the Tools")
 
-
+#### Framing
 Many libraries and museums have recently established or invested resources to implement maker programs or makerspaces. While these programs and spaces serve a variety of goals, they overwhelmingly serve as sites of ambitious learning. As the making movement grows by leaps and bounds, the field itself knows relatively little about how to support learning within these spaces. Often, it seems, makerspaces are developed without first taking stock of the conditions that are requisite for ambitious learning experiences to unfold within the making experience.   
 
 As such, we have put together this course to provide museum and library professionals with a framework to support learning in library and museum makerspaces. The course is designed introduce you to the key elements of successful makerspaces: purpose, people, pieces, and parts. We will introduce tools that are intended to help you surface each of these elements for yourselves, offering some direction as you consider creating a makerspace for visitors and patrons.
