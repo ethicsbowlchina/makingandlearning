@@ -1,5 +1,5 @@
 ## Activity Sequence
-*This activity can take at least one hour to facilitate, and up to an entire day to explore.The steps below guide participants to first assess where they are on the various spectra under each of the five categories (activities, learners, space, facilitation, tools & materials) and then have discussions about different perspectives of the participants.*
+*This activity can take at least one hour to facilitate, and up to an entire day to explore. The steps below guide participants to first assess where they are on the various spectra under each of the five categories (activities, learners, space, facilitation, tools & materials) and then have discussions about different perspectives of the participants.*
 <br/>
 #### Gameplay
 As a group, choose one big part of your work as it relates to making, such as the design of the space or a specific program that you will use this tool to consider. You can decide whether you want participants to focus on one or two categories or assess all of them. 
