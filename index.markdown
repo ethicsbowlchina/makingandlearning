@@ -6,7 +6,7 @@ extra_js:
 ---
 
 ### Course Goal
-The goal of this course is to assist in the design and/or implementation of a makerspace or maker program that supports learning in a museum or library. The course can support people who are beginning the development of a new makerspace or maker program or be used to improve upon one that is already up and running. 
+The goal of this course is to assist in the design and/or implementation of a makerspace or maker program that supports learning in a museum or library. The course can support people who are beginning the development of a new makerspace or maker program or be used to improve upon one that is already up and running.
 
 ### Intended Audience
 This course is intended for museum and library professionals, or anybody who is designing a makerspace. We encourage participants to engage in the sessions with team members, from your own organization and/or with partner organizations. 
