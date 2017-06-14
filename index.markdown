@@ -39,7 +39,7 @@ Or <a href="https://learningcircles.p2pu.org/" class="btn btn-primary">create yo
         html.find('.d-end_time').text(circle.end_time);
         html.find('.d-weeks').text(circle.weeks);
         html.find('.d-url').attr('href', circle.url);
-        if (circle.image_url.length > 0){
+        if (circle.image_url && circle.image_url.length > 0){
             html.find('.d-image_url').attr('src', circle.image_url);
         }
         return html;
