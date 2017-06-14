@@ -23,7 +23,7 @@ Learning Circles offer the opportunity to work through the course with your loca
 <div class="col-md-4">{% include lc-card.html %}</div>
 </div>
 
-Or <a href="https://learningcircles.p2pu.org/" class="btn btn-primary">create your own</a>
+<p><a href="https://learningcircles.p2pu.org/" class="btn btn-primary">Start a learning circle</a>.</p>
 
 <script type="text/javascript">
     function renderCircle(circle, template) {
