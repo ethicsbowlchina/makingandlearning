@@ -100,13 +100,20 @@
 }
 
 
-
 .p2pu-footer {
 	img {
 		margin: 1em 0;
-    max-height: 44px;
+    max-width: 200px;
 	}
-  .p2pu-link {
+  @media(min-width: $screen-md) {
+		img {
+			margin: 1em 0;
+      max-width: 90%;
+		}
+
+  }
+  .image-link {
     border: none;
   }
+
 }
