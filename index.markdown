@@ -11,19 +11,17 @@ The goal of this course is to assist in the design and/or implementation of a ma
 ### Intended Audience
 This course is intended for museum and library professionals, or anybody who is designing a makerspace. We encourage participants to engage in the sessions with team members, from your own organization and/or with partner organizations. 
 
-### Format
-The course consists of 30 minutes of background reading (Session Zero), and four two-hour sessions. The course has been designed to be taken as a learning circle: a model of peer-facilitated learning that is designed to add face-to-face interaction and social accountability to the online course experience. After each session, participants are encouraged to share their work on the virtual forum: writing comments, sharing a photo, or uploading a video. If you'd rather go through the course on your own, go right ahead! There are no log ins or sign ups required.
-
-This is an open course, meaning that there is no registration or logging in required to access any  of the materials. All course materials are licensed under a [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/), and were developed with the support of [Peer 2 Peer University](https://www.p2pu.org/).
+### Learning Circle Format
+The course consists of 30 minutes of background reading (Session Zero), and four two-hour sessions. The course has been designed to be taken as a learning circle: a model of peer-facilitated learning that is designed to add face-to-face interaction and social accountability to the online course experience. After each session, participants are encouraged to share their work on the virtual forum with others who are taking the course. 
 
 ### Get started
-Learning Circles offer the opportunity to work through the course with your local community. Join a Learning Circle near you below, or create your own!
-
+Learning Circles offer the opportunity to work through this course face-to-face with your colleagues or neighbors. By creating a learning circle, you'll benefit from resources and a community that help you facilitate a peer discussion, as well as software tools that generate promotional materials and automatically remind participants of upcoming meetings. If you don't see a nearby learning circle on this page, you can create your own below - just be sure to select "Making and Learning" from the list of courses.
+ 
 <div id="lc-container" class="row">
 <div class="col-md-4">{% include lc-card.html %}</div>
 </div>
 
-<p><a href="https://learningcircles.p2pu.org/" class="btn btn-primary">Start a learning circle</a>.</p>
+<p><a href="https://learningcircles.p2pu.org/" class="btn btn-primary">Start a learning circle</a></p>
 
 <script type="text/javascript">
     function renderCircle(circle, template) {
