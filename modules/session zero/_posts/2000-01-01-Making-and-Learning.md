@@ -17,4 +17,4 @@ The project has been carried out through a cooperative agreement between the Ins
 
 [Download a Summary of the Framework](https://github.com/p2pu/makingandlearning/raw/gh-pages/modules/tools/Framework.pdf)
 
-[Read more about the Supporting Learning in Library & Museum Makerspaces project](https://makingandlearning.squarespace.com/)
+<a href="https://makingandlearning.squarespace.com/" target="_blank">Read more about the Supporting Learning in Library & Museum Makerspaces project</a>
