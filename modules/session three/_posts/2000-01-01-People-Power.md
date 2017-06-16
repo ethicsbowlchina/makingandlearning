@@ -8,9 +8,11 @@ Although the flashy tools and machines of makerspaces and outlandish work produc
 
 For some museums and libraries, these roles are carried out by only a handful of people with key staff wearing multiple hats. In other cases, there is an extensive network of staff and stakeholders involved in bringing the maker-based learning experiences to life. The purpose of this game is to reflect on the capacities and talents of current staff as well as consider gaps or opportunities for future strengths. Ultimately, this is a game to facilitate conversations among colleagues working in a makerspace and consider how their roles can better support learning and engagement. 
 
+<br/>
 #### Introduction to the Tool
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Nw89I1ooro0" frameborder="0" allowfullscreen></iframe>
 
+<br/>
 #### Guide for Using the Tool
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NsQRGsuC8i0" frameborder="0" allowfullscreen></iframe>
 
