@@ -16,9 +16,11 @@ Rather than looking for similarities, the discussion can center on where signifi
 
 Ultimately, these spectra are intended to facilitate discussion. Depending on where your makerspace or maker program is with respect to some of these spectra, discussions can be had to consider how you might achieve some meaningful changes with regard to your vision or activity. Revisit these spectra from time to time as a way to evaluate where you and your team have made such changes or which aspects of the makerspace or maker program have remained constant and strong.
 
+<br/>
 #### Introduction to the Tool
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TkwPp0Erfm0" frameborder="0" allowfullscreen></iframe>
 
+<br/>
 #### Guide for Using the Tool
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xOUrd-PUkoM" frameborder="0" allowfullscreen></iframe>
 
