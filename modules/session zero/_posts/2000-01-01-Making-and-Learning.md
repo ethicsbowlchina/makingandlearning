@@ -6,15 +6,15 @@ As such, we have put together this course to provide museum and library professi
 
 Each session will present a new tool-based activity designed to support participants’ productive wrangling with the elements of the framework.  The tools are intended to facilitate discussions amongst team members about some of the key considerations when creating a makerspace that supports learning in a museum or library. When used with organizational teams, the tools that will be covered in this course can help surface differing perspectives on making, develop a common vision and language around making and help your team towards developing a plan of work that reflects the many factors that influence a highly productive makerspace or maker program.  
 
-
+<br/>
 #### Overview of the Course
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OrDvy-WMOPA" frameborder="0" allowfullscreen></iframe>
 
-
+<br/>
 #### Intro to the Tools
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vLEZO2JMyWg" frameborder="0" allowfullscreen></iframe>
 
-
+<br/>
 #### Extras
 The project has been carried out through a cooperative agreement between the Institute of Museum and Library Services and Children’s Museum of Pittsburgh. Several thought partners have also been critical to this work and have provided expert support: Exploratorium, Chicago Public Library, North Carolina State University Libraries, and Maker Education Initiative.
 
