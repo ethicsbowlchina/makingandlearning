@@ -2,6 +2,7 @@
 layout: index
 published: true
 extra_js:
+ - /js/moment.min.js
  - https://learningcircles.p2pu.org/en/studygroups/?course_id=176&callback=renderCircles
 ---
 
@@ -32,10 +33,10 @@ By creating a learning circle, you'll benefit from resources and a community tha
         html.find('.d-venue').text(circle.venue);
         html.find('.d-venue_address').text(circle.venue_address);
         html.find('.d-day').text(circle.day + 's');
-        html.find('.d-start_date').text(circle.start_date);
-        html.find('.d-meeting_time').text(circle.meeting_time); // format time here
+        html.find('.d-start_date').text(moment(circle.start_date).format("Do MMMM YYYY"));
+        html.find('.d-meeting_time').text(moment(circle.meeting_time, 'HH:mm:ss').format('LT'));
         html.find('.d-time_zone').text(circle.time_zone);
-        html.find('.d-end_time').text(circle.end_time);
+        html.find('.d-end_time').text(moment(circle.end_time, 'HH:mm:ss').format('LT'));
         html.find('.d-weeks').text(circle.weeks);
         html.find('.d-url').attr('href', circle.url);
         if (circle.image_url && circle.image_url.length > 0){
