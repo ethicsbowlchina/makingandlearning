@@ -17,7 +17,7 @@ The course consists of 30 minutes of background reading (Session Zero), and four
 
 By creating a learning circle, you'll benefit from resources and a community that help you facilitate a peer discussion, as well as software tools that generate promotional materials and automatically remind participants of upcoming meetings. If you don't see a nearby learning circle on this page, you can create your own below - just be sure to select "Making and Learning" from the list of courses.
  
-<p id="homepage-lc-button"><a href="https://learningcircles.p2pu.org/" class="btn btn-primary" id="lc-button">Create a new learning circle</a></p>
+<p id="homepage-lc-button"><a href="https://p2pu.org/en/facilitate" class="btn btn-primary" id="lc-button">Create a new learning circle</a></p>
 
 <div id="lc-container" class="row">
     <div class="col-md-4">{% include lc-card.html %}</div>
